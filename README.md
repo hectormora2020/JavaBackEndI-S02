@@ -10,3 +10,7 @@ Se implementó el patrón de diseño decorador en el ejercicio de la heladería,
 <br>
 Se utilizó gradle para empaquetar dependencias.
  
+# Pruebas de la clase 
+Se creó una clase heladería donde se utilizan las diversas clases decoradoras. 
+
+![Salida](https://user-images.githubusercontent.com/48740860/207492979-e9677100-b73e-43ff-98b9-d39b115fa4fc.png)
