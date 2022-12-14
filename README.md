@@ -13,4 +13,6 @@ Se utilizó gradle para empaquetar dependencias.
 # Pruebas de la clase 
 Se creó una clase heladería donde se utilizan las diversas clases decoradoras. 
 
-![Salida](https://user-images.githubusercontent.com/48740860/207492979-e9677100-b73e-43ff-98b9-d39b115fa4fc.png)
+# Salida
+
+![Salida](https://user-images.githubusercontent.com/48740860/207493156-b3821307-b92f-4d3d-82c7-28f59fffed6b.png)
